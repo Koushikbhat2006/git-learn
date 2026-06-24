@@ -1,2 +1,0 @@
-username:koushik
-password:1234
